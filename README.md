@@ -1,5 +1,4 @@
-# aos_A1
-
+# Efficient Large File Reversal and Validation with System Calls
 q1:)
 "#" : The task is to reverse the file content , so I am doing this by taking content from the file load it to buffer and reverse the content and write into another file.
 "#" : When we give flag 0 then the file content is reversed, and the input format is shown below.
